@@ -1,0 +1,30 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.img{
+    border: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.img img{
+width: 100%;
+}
+
+#triangle{
+    float:right;
+    padding: 2px;
+    margin: 2px;
+}
+
+.bg-primary{
+    padding: 5px;
+    margin:5px
+}
+
+.glyphicon-star{
+    color: yellow;
+}
+
+z
